@@ -6,7 +6,7 @@
   },
   "deploy": {
     "startCommand": "echo starting!",
-    "healthcheckPath": "/",
+    "healthcheckPath": "/players",
     "healthcheckTimeout": 100
   }
 }
